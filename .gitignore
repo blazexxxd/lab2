@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+lab2.db
+*.log
